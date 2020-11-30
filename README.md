@@ -1,2 +1,2 @@
 # GZS3
-Code for "Consistent Structural Relation Learning for Zero-Shot Segmentation"
+Pytorch implementation for "Consistent Structural Relation Learning for Zero-Shot Segmentation"
